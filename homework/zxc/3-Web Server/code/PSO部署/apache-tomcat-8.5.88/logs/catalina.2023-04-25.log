@@ -1,0 +1,59 @@
+25-Apr-2023 12:10:28.511 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.88
+25-Apr-2023 12:10:28.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Apr 14 2023 20:16:27 UTC
+25-Apr-2023 12:10:28.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.88.0
+25-Apr-2023 12:10:28.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Mac OS X
+25-Apr-2023 12:10:28.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           13.3.1
+25-Apr-2023 12:10:28.516 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              x86_64
+25-Apr-2023 12:10:28.516 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     /Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home
+25-Apr-2023 12:10:28.516 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    20.0.1+9-29
+25-Apr-2023 12:10:28.516 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+25-Apr-2023 12:10:28.516 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88
+25-Apr-2023 12:10:28.517 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88
+25-Apr-2023 12:10:28.518 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.lang=ALL-UNNAMED
+25-Apr-2023 12:10:28.518 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.io=ALL-UNNAMED
+25-Apr-2023 12:10:28.518 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util=ALL-UNNAMED
+25-Apr-2023 12:10:28.518 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+25-Apr-2023 12:10:28.518 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+25-Apr-2023 12:10:28.519 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/conf/logging.properties
+25-Apr-2023 12:10:28.519 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+25-Apr-2023 12:10:28.519 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+25-Apr-2023 12:10:28.519 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+25-Apr-2023 12:10:28.520 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+25-Apr-2023 12:10:28.520 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+25-Apr-2023 12:10:28.520 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88
+25-Apr-2023 12:10:28.520 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88
+25-Apr-2023 12:10:28.520 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/temp
+25-Apr-2023 12:10:28.521 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[/Users/zxc/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+25-Apr-2023 12:10:28.575 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+25-Apr-2023 12:10:28.613 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 785 ms
+25-Apr-2023 12:10:28.660 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+25-Apr-2023 12:10:28.660 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/8.5.88]
+25-Apr-2023 12:10:28.681 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/webapps/javaMavenWeb.war]
+25-Apr-2023 12:10:31.451 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+25-Apr-2023 12:10:31.677 信息 [localhost-startStop-1] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'mvc-dispatcher': initialization started
+25-Apr-2023 12:10:31.716 信息 [localhost-startStop-1] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'mvc-dispatcher-servlet': startup date [Tue Apr 25 12:10:31 CST 2023]; root of context hierarchy
+25-Apr-2023 12:10:31.779 信息 [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from URL [file:/Users/zxc/作业/软件工程/End/3-Web%20Server/PSO部署/apache-tomcat-8.5.88/webapps/javaMavenWeb/WEB-INF/classes/spring-mvc.xml]
+25-Apr-2023 12:10:32.342 信息 [localhost-startStop-1] org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init> JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+25-Apr-2023 12:10:32.741 信息 [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.register Mapped "{[/api/runPSO],methods=[POST]}" onto public double[] controller.MainController.pso(java.lang.String) throws java.io.IOException
+25-Apr-2023 12:10:33.424 信息 [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'mvc-dispatcher-servlet': startup date [Tue Apr 25 12:10:31 CST 2023]; root of context hierarchy
+25-Apr-2023 12:10:33.521 信息 [localhost-startStop-1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: WebApplicationContext for namespace 'mvc-dispatcher-servlet': startup date [Tue Apr 25 12:10:31 CST 2023]; root of context hierarchy
+25-Apr-2023 12:10:33.724 信息 [localhost-startStop-1] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'mvc-dispatcher': initialization completed in 2047 ms
+25-Apr-2023 12:10:33.740 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/webapps/javaMavenWeb.war]的部署已在[5,055]ms内完成
+25-Apr-2023 12:10:33.741 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/webapps/docs]
+25-Apr-2023 12:10:33.771 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/webapps/docs]的部署已在[30]毫秒内完成
+25-Apr-2023 12:10:33.771 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/webapps/manager]
+25-Apr-2023 12:10:33.822 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/webapps/manager]的部署已在[50]毫秒内完成
+25-Apr-2023 12:10:33.822 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/webapps/examples]
+25-Apr-2023 12:10:34.097 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/webapps/examples]的部署已在[275]毫秒内完成
+25-Apr-2023 12:10:34.098 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/webapps/ROOT]
+25-Apr-2023 12:10:34.121 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/webapps/ROOT]的部署已在[24]毫秒内完成
+25-Apr-2023 12:10:34.121 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/webapps/host-manager]
+25-Apr-2023 12:10:34.146 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[/Users/zxc/作业/软件工程/End/3-Web Server/PSO部署/apache-tomcat-8.5.88/webapps/host-manager]的部署已在[24]毫秒内完成
+25-Apr-2023 12:10:34.148 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+25-Apr-2023 12:10:34.166 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 5551 ms
+25-Apr-2023 12:11:08.847 信息 [main] org.apache.catalina.core.StandardServer.await 通过关闭端口接收到有效的关闭命令。正在停止服务器实例。
+25-Apr-2023 12:11:08.847 信息 [main] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8080"]
+25-Apr-2023 12:11:08.852 信息 [main] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+25-Apr-2023 12:11:08.872 信息 [localhost-startStop-2] org.springframework.web.context.support.XmlWebApplicationContext.doClose Closing WebApplicationContext for namespace 'mvc-dispatcher-servlet': startup date [Tue Apr 25 12:10:31 CST 2023]; root of context hierarchy
+25-Apr-2023 12:11:08.892 信息 [main] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8080"]
+25-Apr-2023 12:11:08.900 信息 [main] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8080"]

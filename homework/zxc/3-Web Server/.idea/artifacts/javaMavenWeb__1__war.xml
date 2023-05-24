@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javaMavenWeb (1):war">
+    <output-path>$PROJECT_DIR$/javaMavenWeb_PSO/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>javaMavenWeb (1)</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="javaMavenWeb.war">
+      <element id="artifact" artifact-name="javaMavenWeb (1):war exploded" />
+    </root>
+  </artifact>
+</component>
